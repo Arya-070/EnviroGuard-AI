@@ -151,7 +151,7 @@ IMAGES/
 │     ├── SCH_POWER_MANAGEMENT.png
 │     ├── SCH_QSPI_STORAGE.png
 │     ├── SCHEMATIC_ROOT.png
-|     ├── SYSTEM_ARCHITECTURE.png
+│     ├── SYSTEM_ARCHITECTURE.png
 │     └── COMPONENTS_DOWNLOADED              
 └── Backup_ZIP/             
     └── EnviroGuard-AI-backups/
