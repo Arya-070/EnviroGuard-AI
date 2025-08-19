@@ -1,0 +1,18 @@
+# KiCad backup and autosave files
+*.bak
+*.kicad_prl
+*.dcm
+*.bck
+*.tmp
+*.s#*
+*.s##*
+*~
+
+# KiCad cache and build folders
+__pycache__/
+fp-info-cache/
+build/
+
+# OS generated files
+.DS_Store
+Thumbs.db
