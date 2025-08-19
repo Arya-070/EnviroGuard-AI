@@ -153,8 +153,6 @@ IMAGES/
 │     ├── SCHEMATIC_ROOT.png
 |     ├── SYSTEM_ARCHITECTURE.png
 │     └── COMPONENTS_DOWNLOADED              
-│  
-|
 └── Backup_ZIP/             
     └── EnviroGuard-AI-backups/
 
