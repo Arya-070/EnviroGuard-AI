@@ -135,30 +135,25 @@ EnviroGuard-AI/
 ├── GERBER/                  
 │   └── EnviroGuard-AI-Gerber.zip
 │
-IMAGES/
-│    ├──PCB_3D/
-│    |   ├── 3D_VIEW_1.png
-│    |   └── 3D_VIEW_2.png
-│    │
-│    |── PCB_Layers/
-│    |    ├── B.CU.png
-│    |    ├── F.CU.png
-│    |    ├── In1.CU.png
-│    |    ├── In2.CU.png
-│    |    └── EDITOR_VIEW.png
-│    ├── SCHEMATICS/
-│    |   ├── SCH_AUDIO_INPUT.png
-│    |   ├── SCH_COMMUNICATION.png
-│    |   ├── SCH_ENV_SENSORS.png
-│    |   ├── SCH_EXPANSION.png
-│    |   ├── SCH_MCU_CORE.png
-│    |   ├── SCH_POWER_MANAGEMENT.png
-│    |   ├── SCH_QSPI_STORAGE.png
-│    |   └── SCHEMATIC_ROOT.png
-|    └── SYSTEM/
-|        └── SYSTEM_ARCHITECTURE.png
-├── LIBRARIES/              
-│   ├── COMPONENTS_DOWNLOADED
+IMAGES/    
+│     ├── 3D_VIEW_1.png
+│     ├── 3D_VIEW_2.png
+│     ├── B.CU.png
+│     ├── F.CU.png
+│     ├── In1.CU.png
+│     ├── In2.CU.png
+│     ├── EDITOR_VIEW.png
+│     ├── SCH_AUDIO_INPUT.png
+│     ├── SCH_COMMUNICATION.png
+│     ├── SCH_ENV_SENSORS.png
+│     ├── SCH_EXPANSION.png
+│     ├── SCH_MCU_CORE.png
+│     ├── SCH_POWER_MANAGEMENT.png
+│     ├── SCH_QSPI_STORAGE.png
+│     ├── SCHEMATIC_ROOT.png
+|     ├── SYSTEM_ARCHITECTURE.png
+│     └── COMPONENTS_DOWNLOADED              
+│  
 |
 └── Backup_ZIP/             
     └── EnviroGuard-AI-backups/
