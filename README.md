@@ -113,24 +113,56 @@ flowchart TD
 
 ## 📁 Folder Structure
 ```bash
-EnviroGuardAI/
-├── Schematic/
-│   └── EnviroGuardAI.kicad_sch
-│   └── EnviroGuardAI.pdf
-├── PCB/
-│   └── EnviroGuardAI.kicad_pcb
-│   └── Gerbers/
-│       ├── F_Cu.gbr, Drill.drl, etc
-├── Firmware/
-│   └── main.cpp / main.py
-├── Libraries/
-│   └── Custom.pretty
-├── Images/
-│   ├── Board_3DView.png
-│   ├── Top_Layer.png
-│   └── Bottom_Layer.png
-├── README.md
-└── .gitignore
+EnviroGuard-AI/
+│
+├── README.md               
+├── LICENSE                  
+├── .gitignore               
+│
+├── EnviroGuard-AI_KiCAD_File/      
+│   ├── EnviroGuard-AI.kicad_sch    
+│   ├── EnviroGuard-AI.kicad_pcb    
+│   ├── EnviroGuard-AI.pro          
+│   ├── SCH_AUDIO_INPUT.kicad_sch    
+│   ├── SCH_COMMUNICATION.kicad_sch  
+│   ├── SCH_ENV_SENSORS.kicad_sch   
+│   ├── SCH_EXPANSION.kicad_sch    
+│   ├── SCH_MCU_CORE.kicad_sch      
+│   ├── SCH_POWER_MANAGEMENT.kicad_sch 
+│   ├── SCH_QSPI_STORAGE.kicad_sch   
+│             
+│
+├── GERBER/                  
+│   └── EnviroGuard-AI-Gerber.zip
+│
+IMAGES/
+│    ├──PCB_3D/
+│    |   ├── 3D_VIEW_1.png
+│    |   └── 3D_VIEW_2.png
+│    │
+│    |── PCB_Layers/
+│    |    ├── B.CU.png
+│    |    ├── F.CU.png
+│    |    ├── In1.CU.png
+│    |    ├── In2.CU.png
+│    |    └── EDITOR_VIEW.png
+│    ├── SCHEMATICS/
+│    |   ├── SCH_AUDIO_INPUT.png
+│    |   ├── SCH_COMMUNICATION.png
+│    |   ├── SCH_ENV_SENSORS.png
+│    |   ├── SCH_EXPANSION.png
+│    |   ├── SCH_MCU_CORE.png
+│    |   ├── SCH_POWER_MANAGEMENT.png
+│    |   ├── SCH_QSPI_STORAGE.png
+│    |   └── SCHEMATIC_ROOT.png
+|    └── SYSTEM/
+|        └── SYSTEM_ARCHITECTURE.png
+├── LIBRARIES/              
+│   ├── COMPONENTS_DOWNLOADED
+|
+└── Backup_ZIP/             
+    └── EnviroGuard-AI-backups/
+
 ```
 
 ---
